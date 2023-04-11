@@ -1,0 +1,9 @@
+// 숫자 비교하기
+
+const solution = (num1, num2) => {
+    return num1 === num2 ? 1 : -1
+}
+
+console.log(solution(2, 3));
+console.log(solution(11, 11));
+
